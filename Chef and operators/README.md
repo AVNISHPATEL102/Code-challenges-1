@@ -31,6 +31,9 @@ Input:
 10 10
 
 Output:-
->
-<
-=
+
+less then symbol
+
+greater then symbol
+
+= symbol
