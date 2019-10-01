@@ -54,3 +54,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 25.Cutting Receipes(left)
 
 26.Mahasena
+
+27.Primality Test
