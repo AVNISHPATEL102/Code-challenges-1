@@ -20,3 +20,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 8.Find Remainder
 
 9.Lead Game
+
+10.First and Last Digit
