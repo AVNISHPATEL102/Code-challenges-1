@@ -30,3 +30,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 13.Reverse Number
 
 14.Finding Square Root
+
+15.Ciel and Receipt
