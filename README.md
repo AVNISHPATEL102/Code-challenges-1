@@ -46,3 +46,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 21.Smallest number of notes
 
 22.Ambiguous Permutation(left)
+
+23.Valid Triangles
