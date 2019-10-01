@@ -38,3 +38,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 17.Chef and Remissness
 
 18.Servant
+
+19.Sum in a triangle
