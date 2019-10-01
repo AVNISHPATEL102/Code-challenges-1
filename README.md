@@ -48,3 +48,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 22.Ambiguous Permutation(left)
 
 23.Valid Triangles
+
+24.The Block Game
