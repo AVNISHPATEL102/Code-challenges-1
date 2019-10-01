@@ -10,3 +10,7 @@ go in this format to practice or see solutions from beginer level to increasing 
 3.Add Two Numbers
 
 4.Small Factorials
+
+5.Sum Of Digits
+
+6.Number Mirror
