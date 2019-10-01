@@ -9,6 +9,7 @@ Write a single integer to output, denoting how many integers ti are divisible by
 Example
 
 Input:
+
 7 3
 
 1
