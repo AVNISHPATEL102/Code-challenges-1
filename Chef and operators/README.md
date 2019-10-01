@@ -30,7 +30,7 @@ Input:
 
 10 10
 
-Output:
+Output:-
 
 <
 
