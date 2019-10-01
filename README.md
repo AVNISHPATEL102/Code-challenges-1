@@ -39,6 +39,8 @@ go in this format to practice or see solutions from beginer level to increasing 
 
 18.Servant
 
-19.Sum in a triangle
+19.Sums in a triangle
 
 20.Chef and operators
+
+21.Smallest number of notes
