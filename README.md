@@ -58,3 +58,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 27.Primality Test
 
 28.Id and Ship
+
+29.Fit Squares in Triangles
