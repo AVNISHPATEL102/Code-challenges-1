@@ -33,3 +33,7 @@ Output
 300
 
 50
+
+
+
+We are supposing that the input is from a file
