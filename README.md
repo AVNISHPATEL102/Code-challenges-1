@@ -56,3 +56,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 26.Mahasena
 
 27.Primality Test
+
+28.Id and Ship
