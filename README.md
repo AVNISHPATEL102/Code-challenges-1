@@ -59,6 +59,6 @@ go in this format to practice or see solutions from beginer level to increasing 
 
 28.Id and Ship
 
-29.Fit Squares in Triangles
+29.Fit Squares in Triangles(left)
 
-30.Transform the Expression
+30.Transform the Expression(left)
