@@ -70,3 +70,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 33.Total Expenses
 
 34.GCD and LCM
+
+35.Puppy and Sum
