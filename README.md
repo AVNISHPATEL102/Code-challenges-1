@@ -66,3 +66,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 31.Lapindromes
 
 32.Smallest Pair
+
+33.Total Expenses
