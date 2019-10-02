@@ -64,3 +64,5 @@ go in this format to practice or see solutions from beginer level to increasing 
 30.Transform the Expression(left)
 
 31.Lapindromes
+
+32.Smallest Pair
