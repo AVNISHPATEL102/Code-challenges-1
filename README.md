@@ -1,5 +1,9 @@
 # Code-challenges-1
 
+
+Int the all the programming please open the raw README.md file. so that you will see a exact file not a truncated one which sometimes shows a different input or output.
+
+
 go in this format to practice or see solutions from beginer level to increasing level
 
 
